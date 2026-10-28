@@ -1,0 +1,6 @@
+{
+  "name": "Prana Pond: Mindful Breath Sanctuary",
+  "description": "An interactive meditation and breathing sanctuary game featuring personalized breathing cadences, daily mindfulness goals, and 60fps harmonic pond gameplay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
